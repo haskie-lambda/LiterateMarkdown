@@ -1,3 +1,5 @@
+## This project is deprecated, use [lima](https://github.com/deemp/lima) instead.
+
 # lhsc - a prepocessor for literate haskell markdown
 
 A Converter to convert from .lhs to .md and vice versa
